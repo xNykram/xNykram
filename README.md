@@ -8,7 +8,7 @@
 
 - 🌱 In free time I work on varius projects in my organisation [WebSoftDevs][organization].
 
-## Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="29px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Django" width="24px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />
@@ -22,6 +22,8 @@
 
 <br>
 
+### Contact:
 
+[Write to me!](mailto:patrykladocha76@gmail.com)
 
 [organization]: https://github.com/WebSoftDevs
