@@ -2,7 +2,7 @@
 
 [![PORTFOLIO - up](https://img.shields.io/badge/PORTFOLIO-up-2ea44f?style=for-the-badge)](https://xnykram.github.io/)
 
-### I'm a Junior Python Developer
+### I'm a Python Developer
 
 - 🔭 I'm currently working for an IT company.
 
