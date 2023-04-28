@@ -1,6 +1,6 @@
 # Hi there, I'm Patryk - aka xNykram 👋
 
-[![PORTFOLIO - up](https://img.shields.io/badge/PORTFOLIO-up-2ea44f?style=for-the-badge)](https://xnykram.github.io/)
+[![PORTFOLIO - up](www.xnykram.pl)
 
 ### I'm a Python Developer
 
