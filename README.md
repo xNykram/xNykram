@@ -1,6 +1,6 @@
 # Hi there, I'm Patryk - aka xNykram 👋
 
-[![PORTFOLIO - up](www.xnykram.pl)
+[![PORTFOLIO - up](xnykram.pl)
 
 ### I'm a Python Developer
 
