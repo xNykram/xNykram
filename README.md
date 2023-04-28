@@ -1,6 +1,8 @@
 # Hi there, I'm Patryk - aka xNykram 👋
 
-<a href="http://xnykram.pl" target="_blank">test</a>
+[Go to this page](http://somelink.com/?target=_blank)
+
+
 
 ### I'm a Python Developer
 
