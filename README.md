@@ -2,13 +2,13 @@
 
 [![PORTFOLIO - up](https://img.shields.io/badge/PORTFOLIO-up-2ea44f?style=for-the-badge)](https://xnykram.pl)
 
-### I'm a Python Developer
+### I'm a Software Developer
 
 - 🔭 I'm currently working for an IT company.
 
 - 🌱 In free time I work on varius projects in my organisation [WebSoftDevs][organization].
 
-### Languages and Tools:
+### Technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
