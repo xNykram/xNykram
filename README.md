@@ -1,7 +1,5 @@
 # Hi there, I'm Patryk - aka xNykram 👋
 
-[![PORTFOLIO - up](https://img.shields.io/badge/PORTFOLIO-up-2ea44f?style=for-the-badge)](https://xnykram.pl)
-
 ### I'm a Software Developer
 
 - 🔭 I'm currently working for an IT company.
