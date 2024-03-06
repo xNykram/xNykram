@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working for an IT company.
 
-- 🌱 In free time I work on varius projects in my organisation [WebSoftDevs][organization].
+- 🌱 In free time I work on varius projects in my organisation [SkyTechSoftware](https://github.com/SkyTech-Software).
 
 ### Technologies:
 
